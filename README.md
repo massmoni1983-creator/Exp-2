@@ -31,15 +31,15 @@ Define System Requirements: Outline the functional and non-functional requiremen
 
 <img width="1236" height="888" alt="Screenshot 2026-11-06 143847" src="https://github.com/user-attachments/assets/40a8b2fb-d694-452c-adb8-6ef56fe24a35" />
 
-# ACTIVITY 
+# ACTIVITY DIAGRAM
 
 <img width="1237" height="892" alt="Screenshot 2026-11-06 143812" src="https://github.com/user-attachments/assets/585afe5b-e83a-4ee9-8ac7-075f42b0e64d" />
 
-# COMMUNICATION
+# COMMUNICATION DIAGRAM
 
 <img width="1237" height="887" alt="Screenshot 2026-11-06 143828" src="https://github.com/user-attachments/assets/46b42726-5275-4d16-bc98-17421d606122" />
 
-# SEQUENCE
+# SEQUENCE DIAGRAM
 
 <img width="1235" height="895" alt="Screenshot 2026-11-06 143902" src="https://github.com/user-attachments/assets/fadb682e-1ca5-46d1-8a30-0747b37f8d5a" />
 
