@@ -21,7 +21,7 @@ Define System Requirements: Outline the functional and non-functional requiremen
 
 # CLASS DIAGRAM
 
-<img width="1237" height="887" alt="Screenshot 2026-11-06 143828" src="https://github.com/user-attachments/assets/6464c528-0bbe-4b74-ba74-320f0281be92" />
+<img width="1232" height="892" alt="Screenshot 2026-11-06 143917" src="https://github.com/user-attachments/assets/c4ae5213-9199-4383-a9da-d29d0cb23a97" />
 
 # USE CASE DIAGRAM
 
